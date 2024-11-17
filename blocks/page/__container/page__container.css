@@ -1,0 +1,21 @@
+.page{
+    background-color: #2A2C2F;
+    min-width: 1280px;
+    min-height: 6875px;
+    font-family: 'Inter';
+    min-width: 320px;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Inter', Arial, sans-serif;
+    color: white;
+    box-sizing: border-box;
+    /* ????
+    display: flex;
+    flex-direction: column; */
+}
+
+/* .page {
+    background-color: #2A2C2F;
+    width: 100%;
+} */

@@ -1,0 +1,8 @@
+/* .photo-grid__item{
+    width: 284px;
+    height: 213px;
+} */
+.photo-grid__item {
+    width: 100%;
+    object-fit: cover;
+}
