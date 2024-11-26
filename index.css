@@ -1,61 +1,61 @@
-@import url('/sprint_3_Russia_travel/vendor/normalize.css');
+@import url(./vendor/normalize.css);
 
-/* @import url('/sprint_3_Russia_travel/pages/page.css'); */
+/* @import url(./pages/page.css); */
 
-@import url('/sprint_3_Russia_travel/blocks/page/page.css');
-@import url('/sprint_3_Russia_travel/blocks/page/__container/page__container.css');
+@import url(./blocks/page/page.css);
+@import url(./blocks/page/__container/page__container.css);
 
 /* header и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/header/header.css');
-@import url('/sprint_3_Russia_travel/blocks/header/__logo/header__logo.css');
-@import url('/sprint_3_Russia_travel/blocks/header/__lang-links/header__lang-links.css');
-@import url('/sprint_3_Russia_travel/blocks/header/__lang-link/header__lang-link.css');
-@import url('/sprint_3_Russia_travel/blocks/header/__lang-link/_active/header__lang-link_active.css');
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__lang-links/header__lang-links.css);
+@import url(./blocks/header/__lang-link/header__lang-link.css);
+@import url(./blocks/header/__lang-link/_active/header__lang-link_active.css);
 
 /* intro и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/intro/intro.css');
-@import url('/sprint_3_Russia_travel/blocks/intro/__title/intro__title.css');
-@import url('/sprint_3_Russia_travel/blocks/intro/__text/intro__text.css');
-@import url('/sprint_3_Russia_travel/blocks/intro/__list/intro__list.css');
-@import url('/sprint_3_Russia_travel/blocks/intro/__list/intro__list_bold.css');
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/intro/__title/intro__title.css);
+@import url(./blocks/intro/__text/intro__text.css);
+@import url(./blocks/intro/__list/intro__list.css);
+@import url(./blocks/intro/__list/intro__list_bold.css);
 
 /* lead и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/lead/lead.css');
-@import url('/sprint_3_Russia_travel/blocks/lead/__title/lead__title.css');
-@import url('/sprint_3_Russia_travel/blocks/lead/__subtitle/lead__subtitle.css');
-@import url('/sprint_3_Russia_travel/blocks/lead/__image/lead__image.css');
-@import url('/sprint_3_Russia_travel/blocks/lead/__caption/lead__caption.css');
+@import url(./blocks/lead/lead.css);
+@import url(./blocks/lead/__title/lead__title.css);
+@import url(./blocks/lead/__subtitle/lead__subtitle.css);
+@import url(./blocks/lead/__image/lead__image.css);
+@import url(./blocks/lead/__caption/lead__caption.css);
 
 /* place и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/place/place.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__title/place__title.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__image/place__image.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__article/place__article.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__article/_paragraph/place__article_paragraph.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__website/place__website.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__website/_url-heading/place__website_url-heading.css');
-@import url('/sprint_3_Russia_travel/blocks/place/__website/_link/place__website_link.css');
+@import url(./blocks/place/place.css);
+@import url(./blocks/place/__title/place__title.css);
+@import url(./blocks/place/__image/place__image.css);
+@import url(./blocks/place/__article/place__article.css);
+@import url(./blocks/place/__article/_paragraph/place__article_paragraph.css);
+@import url(./blocks/place/__website/place__website.css);
+@import url(./blocks/place/__website/_url-heading/place__website_url-heading.css);
+@import url(./blocks/place/__website/_link/place__website_link.css);
 
 /* photo-grid и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/photo-grid/photo-grid.css');
-@import url('/sprint_3_Russia_travel/blocks/photo-grid/__item/photo-grid__item.css');
+@import url(./blocks/photo-grid/photo-grid.css);
+@import url(./blocks/photo-grid/__item/photo-grid__item.css);
 
 /* cover и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/cover/cover.css');
-@import url('/sprint_3_Russia_travel/blocks/cover/__title/cover__title.css');
-@import url('/sprint_3_Russia_travel/blocks/cover/__subtitle/cover__subtitle.css');
-@import url('/sprint_3_Russia_travel/blocks/cover/__overlay/cover__overlay.css');
-@import url('/sprint_3_Russia_travel/blocks/cover/__background/cover__background.css');
+@import url(./blocks/cover/cover.css);
+@import url(./blocks/cover/__title/cover__title.css);
+@import url(./blocks/cover/__subtitle/cover__subtitle.css);
+@import url(./blocks/cover/__overlay/cover__overlay.css);
+@import url(./blocks/cover/__background/cover__background.css);
 
 /* footer и его элементы */
-@import url('/sprint_3_Russia_travel/blocks/footer/footer.css');
-@import url('/sprint_3_Russia_travel/blocks/footer/__links/footer__links.css');
-@import url('/sprint_3_Russia_travel/blocks/footer/__links/_link/footer__links_link.css');
-@import url('/sprint_3_Russia_travel/blocks/footer/__copyright/footer__copyright.css');
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__links/footer__links.css);
+@import url(./blocks/footer/__links/_link/footer__links_link.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);
 
-@import url('/sprint_3_Russia_travel/blocks/link-opaque/link-opaque.css');
+@import url(./blocks/link-opaque/link-opaque.css);
 
 
-/* @import url('/sprint_3_Russia_travel/');
-@import url('/sprint_3_Russia_travel/');
-@import url('/sprint_3_Russia_travel/'); */
+/* @import url(./);
+@import url(./);
+@import url(./); */
